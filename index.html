@@ -1,0 +1,66 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+	<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+	<link href='http://fonts.googleapis.com/css?family=Oleo+Script' rel='stylesheet' type='text/css'>
+</head>
+	<body>
+			<div class = "topheader">
+				<img src = "pics/topheader.png" alt = "Header for page" />
+
+				</div>
+				
+				<div class = "nav">
+
+					<ul>
+						<li><a href = "projects.html">Projects</a></li>
+						<li><a href = "poetry.html">Poetry</a>
+							<ul>
+								<li><a href = "poetryarchive.html">Archive</a></li>
+							</ul>
+						</li>
+						<li><a href = "inspiration.html">Inspiration</a>
+							<ul>
+								<li><a href = "openings.html">Openings</a></li>
+								<li><a href = "quotes.html">Quotes</a></li>
+							</ul>
+						</li>
+						<li><a href = "contact.html">Contact</a></li>
+						
+
+					</ul>
+				</div>
+
+				<div class = "index">
+					<div id = "about">
+						<table>
+							<td><img src = "pics/mepic.jpg" alt = "Me" align = "center" /></td>
+							<td>
+								<h1 style= "text-align: center; font-family:'Oleo Script', Helvetica, sans-serif; font-size: 3em; text-shadow: 4px 4px 0px rgba(0,0,0,0.1);">Welcome!</h1>
+								<h3>This is my personal website, dedicated to <a href = "projects.html">projects</a>, <a href = "poetry.html">poetry</a>, pictures, and reflection.</h3>
+								
+								<p> <b>About me:</b>   My name is Evelyn Ting.  I am majoring in Computer Science at Amherst College, and am interested in coding tech for social good after college.  I love programming because it challenges me to solve unique puzzles and lets me create products for others.  Besides coding, my favorite activity is probably reading. Preferably in a recliner, with lots of pillows, bread, and hot chocolate. I like long dresses and big philosophical ideas. Sometimes, I stay up until one AM; debating and challenging the way our world is perceived.</p>
+							</td>
+						</table>
+						<br><br>
+					</div>
+					<div id = "facade" style="position: relative; left: 0; top: 0;">
+						<img id = "facade" src = "pics/notebook.jpg" style="position: relative; top: 0; left: 0;" alt = "notebook" />
+						<button type="button" class="evbtn" style="position: absolute; top: 150px; left: 340px;" onclick="showAbout()">Enter</button>
+					</div>
+				<br><br><br><br><br>
+				</div>
+
+	<script>
+		$(document).ready(function() {
+        	document.getElementById("about").style.display = 'none';
+        });
+        function showAbout() {
+	    	document.getElementById("facade").style.display = "none";
+	    	document.getElementById("about").style.display = "inline";
+		}
+	</script>
+	</body>
+
+</html>
