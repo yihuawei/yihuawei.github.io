@@ -14,7 +14,7 @@ Research interests:
 ----
 - Compiler Optimization for High Performance Computing
 - Graph Mining and Analytics Systems
-- Machine Learning Systems and Deep Learning Compilers
+- Machine Learning System and Deep Learning Compiler
 
 Latest News 
 ----
