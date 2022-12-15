@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: #"Experiences"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -20,11 +20,11 @@ Work experience
 * Aug 2021 - Now: Research Assistant
   * University of Iowa
   * Supervisor: Peng Jiang
-  * Direction: Graph Processing
+  * Direction: Graph Processing, Compiler Optimization
 
 * Jan 2020 – Aug 2021: Senior Software Engineer-AI Infra
   * Meituan Inc
-  * Direction: Machine Learning System, AI Infrastructure, Deep Learning Compiler
+  * Direction: Machine Learning System, Deep Learning Compiler
 
 * Apr 2018 – Dec 2019: Research Engineer-Computer Vision
   * SUNING Research Center Beijing
