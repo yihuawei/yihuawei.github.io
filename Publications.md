@@ -6,4 +6,4 @@
 
 - **[PACT'2022] SampleMine: A Framework for Applying Random Sampling to Subgraph Pattern Mining through Loop Perforation.** [[PDF](https://pengjiang-hpc.github.io/papers/pact22.pdf)]
 <br> Peng Jiang, Yihua Wei, Jiya Su, Rujia Wang, Bo Wu.
-<br> The 31st International Conference on Parallel Architectures and Compilation Techniques (PACT), October 10–12, 2022.
+<br> The 31st International Conference on Parallel Architectures and Compilation Techniques (PACT), October 10–12, 2022.   
