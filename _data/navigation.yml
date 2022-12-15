@@ -6,11 +6,11 @@ main:
   - title: "Experiences"
     url: /cv/
 
-  - title: "Projects"
-    url: /projects
+  # - title: "Projects"
+  #   url: /projects
 
   - title: "CV"
-    url: /cv
+  url: /CV
 
   # - title: "Teaching"
   #   url: /teaching/    
