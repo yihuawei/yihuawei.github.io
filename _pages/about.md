@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Ph.D. student in the [Computer Science Department](https://cs.uiowa.edu/) at the [University of Iowa](https://uiowa.edu/), advised by [Peng Jiang](https://pengjiang-hpc.github.io/). I am also a member of the [IOWA-HPC Group](https://iowa-hpc.github.io/). Before coming to [UIowa](https://uiowa.edu/), I worked as a senior software engineer specializing in AI Infrastructure at [Meituan](https://about.meituan.com/en). I received an M.S. in Computer Science from the [University of Southern California](https://www.usc.edu/) in 2017 and a B.S. in Electrical Engineering from the [China University of Mining and Technology-Beijing](https://english.cumtb.edu.cn/) in 2015. 
+I am a second-year Ph.D. student in the [Computer Science Department](https://cs.uiowa.edu/) at the [University of Iowa](https://uiowa.edu/), advised by [Peng Jiang](https://pengjiang-hpc.github.io/). I am also a member of the [IOWA-HPC Group](https://iowa-hpc.github.io/). Before coming to [UIowa](https://uiowa.edu/), I worked as a Senior Software Engineer specializing in AI Infrastructure at [Meituan](https://about.meituan.com/en). I received an M.S. in Computer Science from the [University of Southern California](https://www.usc.edu/) in 2017 and a B.S. in Electrical Engineering from the [China University of Mining and Technology-Beijing](https://english.cumtb.edu.cn/) in 2015. 
 
 Research interests:
 ----
