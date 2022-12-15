@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Ph.D. student in the [Computer Science Department](https://cs.uiowa.edu/) at the  University of Iowa, advised by [Peng Jiang](https://pengjiang-hpc.github.io/). I am also a member of the [IOWA-HPC Group](https://iowa-hpc.github.io/). Before coming to Iowa, I received an M.S. in Computer Science from the [University of Southern California](https://www.usc.edu/) and a B.S. in Electrical Engineering from the [China University of Mining and Technology-Beijing](https://english.cumtb.edu.cn/).
+I am a second-year Ph.D. student in the [Computer Science Department](https://cs.uiowa.edu/) at the University of Iowa, advised by [Peng Jiang](https://pengjiang-hpc.github.io/). I am also a member of the [IOWA-HPC Group](https://iowa-hpc.github.io/). Before coming to University of Iowa, I received an M.S. in Computer Science from the [University of Southern California](https://www.usc.edu/) and a B.S. in Electrical Engineering from the [China University of Mining and Technology-Beijing](https://english.cumtb.edu.cn/).
 
 My research lies in program optimization, with an emphasis on compiler optimization for graph mining and machine learning system.
 
