@@ -27,7 +27,7 @@ Work experience
 
 * Apr 2018 – Dec 2019: Research Engineer-Computer Vision
   * SUNING Research Center Beijing
-  * Direction: Computer Vision & Objection Detection 
+  * Direction: Computer Vision & Object Detection 
 
 * Aug 2017 – Dec 2017: Research Engineer-Computer Vision
   * Center for System and Software Engineering - USC
