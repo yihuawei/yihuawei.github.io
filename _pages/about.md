@@ -22,7 +22,7 @@ Latest News
 - **[Jun. 2022]**: Our work about [Graph Pattern Matching on GPU](https://dl.acm.org/doi/abs/10.5555/3571885.3571955) is accepted to [SC'2022](https://sc22.supercomputing.org/presentation/?id=pap297&sess=sess171).
 - **[Jun. 2022]**: Our work about [Frequent Subgraph Mining and Subgraph Counting](https://pengjiang-hpc.github.io/papers/pact22.pdf) is accepted to [PACT'2022](https://pact22.cs.illinois.edu/program.html).
 
-Service:
+Services:
 ----
 Subreviewer: SC'2022, IPDPS'2022, IPDPS'2023
 
