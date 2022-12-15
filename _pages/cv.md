@@ -19,7 +19,6 @@ Work experience
 ======
 * Aug 2021 - Now: Research Assistant
   * University of Iowa
-  * Supervisor: Peng Jiang
   * Direction: Graph Processing, Compiler Optimization
 
 * Jan 2020 – Aug 2021: Senior Software Engineer-AI Infra
