@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Yihua Wei's Homepage"
 title_separator          : "-"
-name                     : &name "Yihua Wei"
+name                     : &name "Yihua Wei(衛奕驊/卫奕骅)"
 description              : &description "PhD student in the Computer Science Department at the University of Iowa"
 url                      : https://yihuawei.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
