@@ -13,7 +13,7 @@ I am a second-year Ph.D. student in the [Computer Science Department](https://cs
 Research interests:
 ----
 - Compiler Optimization for High Performance Computing
-- Graph Mining and Analytics Systems
+- Graph Processing Systems
 - Machine Learning System and Deep Learning Compiler
 
 Latest News 
