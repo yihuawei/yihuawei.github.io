@@ -17,7 +17,7 @@ Education
 
 Research Experiences
 ======
-* Aug 2021 - Now: Research Assistant
+* Aug 2021 - Now: <b>Research Assistant<b>
   * [The University of Iowa](https://cs.uiowa.edu/)
   * Research Areas: Graph Computing, Compiler Optimization
 
