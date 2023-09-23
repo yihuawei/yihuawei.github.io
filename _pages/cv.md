@@ -18,31 +18,31 @@ Education
 Research Experiences
 ======
 * Aug 2021 - Now: Research Assistant
-  * University of Iowa
+  * [The University of Iowa](https://cs.uiowa.edu/)
   * Research Areas: Graph Computing, Compiler Optimization
 
 * May 2023 - July 2023: Research Intern
-  * Argonne National Laboratory
+  * [Argonne National Laboratory](https://www.anl.gov/)
   * Technical direction: MLIR, Sambanova System, Graphcore System
 
 Industry Experiences
 ======
 * Jan 2020 – Aug 2021: Senior Software Engineer-AI Infra
-  * Meituan Inc
+  * [Meituan Inc](https://about.meituan.com/en)
   * Technical direction: Machine Learning System, Deep Learning Compiler
 
 * Apr 2018 – Dec 2019: Research Engineer-Computer Vision
-  * SUNING R&D Center Beijing
+  * [SUNING R&D Center Beijing](http://www.ussuning.com/)
   * Technical direction: Computer Vision & Image Retrieval 
 
 Teaching Experiences
 ======
 * Fall 2023: Teaching Assistant
-  * University of Iowa
+  * [The University of Iowa](https://cs.uiowa.edu/)
   * CS4980: Compiler Optimization for High-Performance Computing
 
 * Fall 2023: Teaching Assistant
-  * University of Iowa
+  * [The University of Iowa](https://cs.uiowa.edu/)
   * CS3210: Programming Languages and Tools-Programming with Java
 
 Skills
