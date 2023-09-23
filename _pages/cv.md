@@ -17,31 +17,31 @@ Education
 
 Research Experiences
 ======
-* Aug 2021 - Now: <b>Research Assistant<b>
+* <b>Research Assistant<b>, Aug 2021 - Now
   * [The University of Iowa](https://cs.uiowa.edu/)
-  * Research Areas: Graph Computing, Compiler Optimization
+  * <i>Research Areas: Graph Computing, Compiler Optimization<i>
 
-* May 2023 - July 2023: Research Intern
+* <b>Research Intern<b>, May 2023 - July 2023
   * [Argonne National Laboratory](https://www.anl.gov/)
-  * Technical direction: MLIR, Sambanova System, Graphcore System
+  * <i>Technical direction: MLIR, Sambanova System, Graphcore System<i>
 
 Industry Experiences
 ======
-* Jan 2020 – Aug 2021: Senior Software Engineer-AI Infra
+* <b>Senior Software Engineer-AI Infra<b>, Jan 2020 – Aug 2021
   * [Meituan Inc](https://www.meituan.com/en-US/about-us)
-  * Technical direction: Machine Learning System, Deep Learning Compiler
+  * <i>Technical direction: Machine Learning System, Deep Learning Compiler<i>
 
-* Apr 2018 – Dec 2019: Research Engineer-Computer Vision
+* <b>Research Engineer-Computer Vision<b>, Apr 2018 – Dec 2019
   * [SUNING R&D Center Beijing](http://www.ussuning.com/)
-  * Technical direction: Computer Vision & Image Retrieval 
+  * <i>Technical direction: Computer Vision & Image Retrieval<i>
 
 Teaching Experiences
 ======
-* Fall 2023: Teaching Assistant
+* <b>Teaching Assistant<b>, Fall 2023
   * [The University of Iowa](https://cs.uiowa.edu/)
   * CS4980: Compiler Optimization for High-Performance Computing
 
-* Fall 2023: Teaching Assistant
+* <b>Teaching Assistant<b>, Fall 2023
   * [The University of Iowa](https://cs.uiowa.edu/)
   * CS3210: Programming Languages and Tools-Programming with Java
 
