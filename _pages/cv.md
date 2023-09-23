@@ -11,30 +11,48 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, University of Iowa, 2021 - Now
+* Ph.D. in Computer Science, University of Iowa, 2021 - Now
 * M.S. in Computer Science, University of Southern California, 2015 - 2017
 * B.S. in Electrical Engineering, China University of Mining and Technology-Beijing, 2011 - 2015
 
-Work experience
+Experiences
 ======
+
+Research Experiences
+----
 * Aug 2021 - Now: Research Assistant
   * University of Iowa
-  * Direction: Graph Processing, Compiler Optimization
+  * Research Areas: Graph Computing, Compiler Optimization
 
+* May 2023 - July 2023: Research Intern
+  * Argonne National Laboratory
+  * Technical direction: MLIR, Sambanova System, Graphcore System
+
+Teaching Experiences
+----
+* Fall 2023: Teaching Assistant
+  * University of Iowa
+  * CS4980: Compiler Optimization for High-Performance Computing
+
+* Fall 2023: Teaching Assistant
+  * University of Iowa
+  * CS3210: Programming Languages and Tools-Programming with Java
+
+Industry Experiences
+----
 * Jan 2020 – Aug 2021: Senior Software Engineer-AI Infra
   * Meituan Inc
-  * Direction: Machine Learning System, Deep Learning Compiler
+  * Technical direction: Machine Learning System, Deep Learning Compiler
 
 * Apr 2018 – Dec 2019: Research Engineer-Computer Vision
-  * SUNING Research Center Beijing
-  * Direction: Computer Vision & Object Detection 
+  * SUNING R&D Center Beijing
+  * Technical direction: Computer Vision & Image Retrieval 
 
-* Aug 2017 – Dec 2017: Research Engineer-Computer Vision
-  * Center for System and Software Engineering - USC
   
 Skills
 ======
 * Programming Languages: C, C++, CUDA, Python, JAVA, Haskell
-* Tools: (Tensorflow, Pytorch, TVM, Caffe)[Dived into the source code], OpenCV, Numpy, TensorRT, cuBlas, cuDNN
+* Tools: (Tensorflow, Pytorch, TVM, Caffe)[Dived into the source code], TensorRT, cuBlas, cuDNN
 * Others: Deep Learning, Computer Vision, HPC, Computer Architecture, Operating System
+
 
