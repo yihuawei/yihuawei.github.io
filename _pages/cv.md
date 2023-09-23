@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Computer Science, [University of Iowa](https://uiowa.edu/), 2021 - Now
+* Ph.D. in Computer Science, [The University of Iowa](https://uiowa.edu/), 2021 - Now
 * M.S. in Computer Science, [University of Southern California](https://www.usc.edu/), 2015 - 2017
 * B.S. in Electrical Engineering, [China University of Mining and Technology-Beijing](https://english.cumtb.edu.cn/), 2011 - 2015
 
@@ -28,7 +28,7 @@ Research Experiences
 Industry Experiences
 ======
 * <b>Senior Software Engineer-AI Infra</b>, Jan 2020 – Aug 2021
-  * [Meituan Inc](https://www.meituan.com/en-US/about-us)
+  * [Meituan](https://www.meituan.com/en-US/about-us)
   * <i>Technical direction: Machine Learning System, Deep Learning Compiler</i>
 
 * <b>Research Engineer-Computer Vision</b>, Apr 2018 – Dec 2019
