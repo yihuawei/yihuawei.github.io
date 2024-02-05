@@ -12,7 +12,7 @@ I am a third-year Ph.D. student in the [Computer Science Department](https://cs.
 
 Research interests:
 ----
-- Compiler and Runtime Program Optimization
+- Compiler and Runtime Optimization for Data-Intensive Applications
 - Graph Computing System
 - Machine Learning System
 
