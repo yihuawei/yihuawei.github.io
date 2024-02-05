@@ -2,7 +2,7 @@
 
 - **[IPDPS'2024] GCSM: GPU-Accelerated Continuous Subgraph Matching for Large Graphs.** 
 <br> Yihua Wei, Peng Jiang.
-<br> IEEE International Parallel and Distributed Processing Symposium, 2024
+<br> The 38th IEEE International Parallel and Distributed Processing Symposium, May 27–31, 2024.  
 
 - **[SC'2022] STMatch: Accelerating Graph Pattern Matching on GPU with Stack-Based Loop Optimization.** [[PDF](https://pengjiang-hpc.github.io/papers/sc22.pdf)]
 <br> Yihua Wei, Peng Jiang.
