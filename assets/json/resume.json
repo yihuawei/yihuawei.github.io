@@ -1,5 +1,5 @@
 {
-  "work": [
+  "Experience": [
     {
       "name": "The University of Iowa",
       "position": "Research Assistant",
@@ -30,7 +30,7 @@
       "summary": "Computer Vision, Image Retrieval"
     }
   ],
-  "education": [
+  "Education": [
     {
       "institution": "The University of Iowa",
       "location": "Iowa City, USA",
