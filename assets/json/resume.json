@@ -1,5 +1,5 @@
 {
-  "Experience": [
+  "work": [
     {
       "name": "The University of Iowa",
       "position": "Research Assistant",
@@ -22,7 +22,7 @@
       "endDate": "2021-08",
       "summary": "Machine Learning System, Deep Learning Compiler"
     }, 
-      {
+    {
       "name": "Suning R&D Center",
       "position": "Software Engineer",
       "startDate": "2018-01",
@@ -30,7 +30,7 @@
       "summary": "Computer Vision, Image Retrieval"
     }
   ],
-  "Education": [
+  "education": [
     {
       "institution": "The University of Iowa",
       "location": "Iowa City, USA",
@@ -58,8 +58,7 @@
       "name": "High Performance Programming",
       "keywords": [
         "CUDA",
-        "C++"
-      ]
+        "C++"]
     }
   ]
 }

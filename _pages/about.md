@@ -22,5 +22,5 @@ I am a fourth-year Ph.D. student in the [Computer Science Department](https://cs
 
 Research Interests:
 ----
-- High-performance CUDA kernels for irregular applications
+- High Performance CUDA Kernels for Irregular Applications
 - Domain Specific Optimizing Compilers. 
