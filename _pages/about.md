@@ -2,24 +2,19 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle:
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>317 MacLean Hall,</p>
+    <p>Iowa City, IA, 52246</p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am a third-year Ph.D. student in the [Computer Science Department](https://cs.uiowa.edu/) at the [University of Iowa](https://uiowa.edu/), advised by [Peng Jiang](https://pengjiang-hpc.github.io/). I am also a member of the [IOWA-HPC Group](https://iowa-hpc.github.io/). Before coming to [UIowa](https://uiowa.edu/), I worked as a Software Engineer centering on Machine Learning System at [Meituan](https://www.meituan.com/en-US/about-us). I received an M.S. in Computer Science from the [University of Southern California](https://www.usc.edu/) in 2017 and a B.S. in Electrical Engineering from the [China University of Mining and Technology-Beijing](https://english.cumtb.edu.cn/) in 2015. 
